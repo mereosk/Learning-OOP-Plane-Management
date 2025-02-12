@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves modeling and managing an airplane with various compartments, components, and employees working on the system. The system includes abstract classes for general components, polymorphism for various employee roles, and several methods to ensure the proper functioning of the airplane components.
+This project was created to help me learn and practice Object-Oriented Programming (OOP). It involves modeling and managing an airplane with various compartments, components, and employees working on the system. The system includes abstract classes for general components, polymorphism for various employee roles, and several methods to ensure the proper functioning of the airplane components.
 
 ## Table of Contents
 1. [Abstract Classes](#abstract-classes)
